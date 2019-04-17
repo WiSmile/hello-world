@@ -10,3 +10,4 @@
 - 优化器：决定使用哪个索引，决定连表顺序
 - 执行器：判断权限，调用存储引擎接口执行操作
 
+![MySQL基本架构图](https://github.com/WiSmile/hello-world/blob/master/MySQL%20%E6%9E%B6%E6%9E%84.jpg?raw=true)
